@@ -1,0 +1,8 @@
+os
+streamlit
+transformers
+torch
+pypdf
+happytransformer
+
+pip install pypdf
