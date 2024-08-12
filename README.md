@@ -1,7 +1,7 @@
 # Text Resources Apps
 
 ## Features
-- News Classifier: Classify news as real or fake, given text or pdf input
+- News Classifier: Classify news as real or fake, given text or pdf input, *output maybe be not accurate*
 - Grammar Checker: Correct grammatical errors in inputted text or pdf
 - Essay Scorer: Scores essay based on a variety of factors, given pdf or text input
 
